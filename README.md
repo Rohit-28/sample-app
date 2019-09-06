@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
+[![Generic badge](https://img.shields.io/badge/Angular8-Typescript-<COLOR>.svg)](https://shields.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/CLI%20-Material%20Design-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -25,3 +28,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+:sweat_drops: :man_artist: :sweat_drops:
